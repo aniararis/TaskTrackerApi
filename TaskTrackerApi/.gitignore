@@ -1,0 +1,11 @@
+bin/
+obj/
+.idea/.idea.TaskTrackerApi/.idea/workspace.xml
+.idea/**/workspace.xml
+.idea/**/shelf/
+.idea/**/httpRequests/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.idea/
